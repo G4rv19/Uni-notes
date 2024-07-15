@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/CAB-222/Introduction to CAB-222.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/CAB-222/Introduction to CAB-222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/CAB-222/Introduction to CAB-222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md"
+                "file": "Semester 2/CAB-222/Introduction to CAB-222.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +148,8 @@
   "active": "25a7d3529759de5d",
   "lastOpenFiles": [
     "Semester 2/CAB-201/Introduction to CAB-201.md",
-    "README.md"
+    "Semester 2/CAB-222/Introduction to CAB-222.md",
+    "README.md",
+    "Semester 2/MXB-100/Introduction to MXB-100.md"
   ]
 }
