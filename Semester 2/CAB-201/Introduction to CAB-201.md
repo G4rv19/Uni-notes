@@ -78,3 +78,12 @@ myNum = 20 // error will occur here.
 
 
 
+### Display Variables
+
+The writeLine() method is often used to display variable values to the console window.
+
+#### Example
+``` C#
+string name = "John";
+Console.WriteLine("Hello " + name);
+```
