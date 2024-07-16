@@ -111,3 +111,8 @@ All C# variables must be identified with unique names.
 These unique names are called identifiers.
 
 ##### Example
+``` C#
+int minutesPerHour = 60;
+
+int m = 60;
+```
