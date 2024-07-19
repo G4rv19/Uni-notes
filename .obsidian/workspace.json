@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/MXB-100/Introduction to MXB-100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6a7b48425413e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/MXB-100/Week 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/MXB-100/Week 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
+                "file": "Semester 2/MXB-100/Week 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/CAB-201/Introduction to CAB-201.md"
+                "file": "Semester 2/MXB-100/Week 1 Notes.md"
               }
             }
           }
@@ -145,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ffdc0dda53f63fc",
+  "active": "6f6a7b48425413e3",
   "lastOpenFiles": [
-    "README.md",
+    "Semester 2/MXB-100/Introduction to MXB-100.md",
+    "Semester 2/MXB-100/Week 1 Notes.md",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
+    "README.md",
     "Untitled.canvas",
     "Semester 2/CAB-222/Introduction to CAB-222.md",
-    "Semester 2/IFB-240/Introduction to IFB-240.md",
-    "Semester 2/MXB-100/Introduction to MXB-100.md"
+    "Semester 2/IFB-240/Introduction to IFB-240.md"
   ]
 }
