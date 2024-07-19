@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2936e55c7964a22f",
@@ -146,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +162,8 @@
   },
   "active": "6f6a7b48425413e3",
   "lastOpenFiles": [
+    "Pasted image 20240720000320.png",
+    "Pasted image 20240720000316.png",
     "Semester 2/MXB-100/Introduction to MXB-100.md",
     "Semester 2/MXB-100/Week 1 Notes.md",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
