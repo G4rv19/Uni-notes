@@ -23,3 +23,8 @@ Brief review of basic differentiation rules, the product rule and the chain rule
 
 1. Any number with power of 0 is 1.
 
+
+## Product Rule
+ ![[Pasted image 20240720003828.png]]
+
+Where the derivate of 2 can be lead like this where u can solve derivative of first with product of the other and adding to the derivate of other with the product of the first.
