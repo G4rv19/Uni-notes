@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f6a7b48425413e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/MXB-100/Week 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2936e55c7964a22f",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/MXB-100/Week 1 Notes.md",
+                "file": "Semester 2/MXB-100/Introduction to MXB-100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/MXB-100/Week 1 Notes.md",
+                "file": "Semester 2/MXB-100/Introduction to MXB-100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/MXB-100/Week 1 Notes.md"
+                "file": "Semester 2/MXB-100/Introduction to MXB-100.md"
               }
             }
           }
@@ -160,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f6a7b48425413e3",
+  "active": "7ffdc0dda53f63fc",
   "lastOpenFiles": [
+    "Semester 2/MXB-100/Week 1/Pasted image 20240720000320.png",
+    "Semester 2/MXB-100/Week 1/Pasted image 20240720003828.png",
     "Semester 2/MXB-100/Introduction to MXB-100.md",
-    "Semester 2/MXB-100/Week 1 Notes.md",
-    "Pasted image 20240720003828.png",
-    "Pasted image 20240720001555.png",
-    "Pasted image 20240720000320.png",
+    "Semester 2/MXB-100/Week 1",
+    "Semester 2/MXB-100/Week 1/Pasted image 20240720001555.png",
     "Pasted image 20240720000316.png",
-    "Semester 2/CAB-201/Introduction to CAB-201.md",
     "README.md",
+    "2024-07-20.md",
     "Untitled.canvas",
+    "Semester 2/MXB-100/Week 1/Week 1 Notes.md",
+    "Semester 2/MXB-100/image.png",
+    "Semester 2/CAB-201/Introduction to CAB-201.md",
     "Semester 2/CAB-222/Introduction to CAB-222.md",
     "Semester 2/IFB-240/Introduction to IFB-240.md"
   ]
