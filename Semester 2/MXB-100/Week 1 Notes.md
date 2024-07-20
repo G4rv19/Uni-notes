@@ -16,7 +16,7 @@ Brief review of basic differentiation rules, the product rule and the chain rule
 
 ## Some Basic Derivative Rules
 
-![](../../Pasted%20image%2020240721012843.png)
+![](Week%201/Pasted%20image%2020240721012843.png)
 
 ## Reminder - Power Rules
 ![](Week%201/Pasted%20image%2020240721011054.png)
