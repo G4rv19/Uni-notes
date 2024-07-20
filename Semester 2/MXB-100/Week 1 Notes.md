@@ -29,3 +29,5 @@ Brief review of basic differentiation rules, the product rule and the chain rule
 
 Where the derivate of 2 can be lead like this where u can solve derivative of first with product of the other and adding to the derivate of other with the product of the first
 
+
+![](../../Pasted%20image%2020240721010757.png)
