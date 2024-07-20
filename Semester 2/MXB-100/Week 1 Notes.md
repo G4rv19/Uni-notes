@@ -76,6 +76,3 @@ Implicit differentiation relies on the application of the chain rule. No rearran
 
 * Calculating the derivative can also be thought of as calculating the rate of change.
 * This is especially appropriate for problems which look at how a variable changes over time.
-
-
-Just testing something with deleting
