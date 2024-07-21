@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2936e55c7964a22f",
@@ -168,14 +169,14 @@
   },
   "active": "7ffdc0dda53f63fc",
   "lastOpenFiles": [
-    "Pasted image 20240721203454.png",
-    "Pasted image 20240721203442.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png",
+    "README.md",
     "Semester 2/CAB-201/Week 1 notes.md",
+    "Semester 2/CAB-201/Week 1/Pasted image 20240721203442.png",
+    "Semester 2/CAB-201/Week 1/Pasted image 20240721203454.png",
+    "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png",
     "Semester 2/CAB-201/Week 1/Pasted image 20240721203046.png",
     "Semester 2/CAB-201/Week 1",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
-    "README.md",
     "Semester 2/MXB-100/Week 1 Notes.md",
     "Semester 2/MXB-100/Week 1/Pasted image 20240721012843.png",
     "Semester 2/MXB-100/Introduction to MXB-100.md",
@@ -184,7 +185,6 @@
     "Semester 2/MXB-100/Week 1/Pasted image 20240721011643.png",
     "Semester 2/MXB-100/Week 1/Pasted image 20240721011539.png",
     "Semester 2/MXB-100/Week 1/Pasted image 20240721011451.png",
-    "Semester 2/MXB-100/Week 1/Pasted image 20240721011242.png",
     "Week 1.md",
     "Semester 2/MXB-100/Week 1",
     "2024-07-20.md",
