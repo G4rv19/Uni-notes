@@ -35,3 +35,6 @@ C# has 5 Basic types of Groups.
 * Can hold numbers with different ranges and different memory sizes.
 * Either positive and negative number or zero
 * Good Example of a C# being a statically typed language.
+
+## C# as a Statically Typed Language.
+What is a Statically typed language? How does it differ from a dynamic language?
