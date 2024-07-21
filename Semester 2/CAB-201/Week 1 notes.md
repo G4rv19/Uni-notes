@@ -38,3 +38,9 @@ C# has 5 Basic types of Groups.
 
 ## C# as a Statically Typed Language.
 What is a Statically typed language? How does it differ from a dynamic language?
+
+## Statically Type Language
+
+1. A variable's Type must be deleted.
+2. The Variable must be declared before its use.
+3. A variable can only be declared once.
