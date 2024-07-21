@@ -28,3 +28,10 @@ C# has 5 Basic types of Groups.
 
 ![](Week%201/Pasted%20image%2020240721203454.png)
 
+## Integral Types 
+
+* Whole Numbers numbered types 
+	* No decimals 
+* Can hold numbers with different ranges and different memory sizes.
+* Either positive and negative number or zero
+* Good Example of a C# being a statically typed language.
