@@ -11,9 +11,11 @@
             "id": "7ffdc0dda53f63fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png"
+                "file": "Semester 2/CAB-201/Week 1 notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png",
+                "file": "Semester 2/CAB-201/Week 1 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png",
+                "file": "Semester 2/CAB-201/Week 1 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png"
+                "file": "Semester 2/CAB-201/Week 1 notes.md"
               }
             }
           },
@@ -164,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8aa1b6b21ffe5012",
+  "active": "7ffdc0dda53f63fc",
   "lastOpenFiles": [
-    "Semester 2/CAB-201/Week 1/Pasted image 20240721203046.png",
     "Semester 2/CAB-201/Week 1/Pasted image 20240721203007.png",
+    "Semester 2/CAB-201/Week 1/Pasted image 20240721203046.png",
     "Semester 2/CAB-201/Week 1",
     "Semester 2/CAB-201/Week 1 notes.md",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
