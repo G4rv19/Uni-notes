@@ -21,8 +21,10 @@ C# has 5 Basic types of Groups.
 * Signed or unsigned.
 #### Integral Types 
 
-![](Semester%202/CAB-201/Week%201/Pasted%20image%2020240721203007.png)
+![](../../Pasted%20image%2020240721203442.png)
+
 
 #### Integral Operators
 
-![](Semester%202/CAB-201/Week%201/Pasted%20image%2020240721203046.png)
+![](../../Pasted%20image%2020240721203454.png)
+
