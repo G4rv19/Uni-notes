@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1 notes.md",
+                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1 notes.md",
+                "file": "Semester 2/CAB-201/Introduction to CAB-201.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/CAB-201/Week 1 notes.md"
+                "file": "Semester 2/CAB-201/Introduction to CAB-201.md"
               }
             }
           }
@@ -146,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb088fabe9f1a60",
+  "active": "7ffdc0dda53f63fc",
   "lastOpenFiles": [
-    "Semester 2/CAB-201/Introduction to CAB-201.md",
     "Semester 2/CAB-201/Week 1 notes.md",
+    "Semester 2/CAB-201/Introduction to CAB-201.md",
     "Semester 2/MXB-100/Week 1 Notes.md",
     "Semester 2/MXB-100/Week 1/Pasted image 20240721012843.png",
     "Semester 2/MXB-100/Introduction to MXB-100.md",
