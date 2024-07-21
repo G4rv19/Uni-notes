@@ -1,1 +1,1 @@
-Week 1 : [[Week 1 Notes]]
+Week 1 : [[../CAB-201/Week 1 notes]]
