@@ -141,6 +141,22 @@ static void Main(string[] args){
 ```C#
 char A_Literal = 'A';
 char A_Unicode = '\u0041'; // 65 in decimal 
-char copywrite = '\u00A9'; // 169 in decimal 
-char registered = '\u00AE'; 
+char copywrite = '\u00A9'; // © 169 in decimal 
+char registered = '\u00AE'; // ® 174 in decimal
+char plusminus = '\u00B1'; // ± 177 in decimal 
+char cent = '\u00A2'; // ¢ 162 in decimal 
+char pound = '\u00A3'; // ¢ 163 in decimal 
 ```
+
+more of these here : - https://home.unicode.org/
+
+### Character Operator 
+``` C#
+static void Main(string[] args) {
+	char ch = 'B'; // Has the literal value 'B'
+	ch++; // Now it is C
+	ch--; // now it is back to B
+}
+```
+
+* 
