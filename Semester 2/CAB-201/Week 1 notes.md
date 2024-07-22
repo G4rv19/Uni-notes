@@ -82,5 +82,15 @@ What is a Statically typed language? How does it differ from a dynamic language?
 
 # ERRORS
 
+They can occur always and anytime with simple things or sometimes have bugs in code. U can debug and fix up the errors while compiling the code.
+
 ### Statically vs Dynamically Typed
 ![](../../Pasted%20image%2020240722130208.png)
+
+# Floating Point Numbers
+![](../../Pasted%20image%2020240722130541.png)
+
+* The default Value for variables is 0.
+* Double is the default type of literal.
+* Use a x.0 when using an integral number to explicitly define it as a floating point.
+* Can also specify not a number (NAN) via their system type e.g. System.Double.NAN
