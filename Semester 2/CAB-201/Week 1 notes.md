@@ -44,4 +44,23 @@ What is a Statically typed language? How does it differ from a dynamic language?
 1. A variable's Type must be deleted.
 2. The Variable must be declared before its use.
 3. A variable can only be declared once.
-4. 
+4. The variable's Type cannot change
+5. Type error checking is performed at compile time
+6. Memory is reserved at compile time.
+
+
+## Variables 
+* Declaration
+	   TYPE IDENTIFIER;
+	   ...
+	   IDENTIFIER = VALUE;
+* Initialisation
+		TYPE IDENTIFIER = VALUE;
+* Assigning 
+		IDENTIFIER = VALUE;
+
+![](Week%201/Pasted%20image%2020240722125607.png)
+\
+### Variable Identifiers
+1. C# identifiers following the following rules:
+ 
