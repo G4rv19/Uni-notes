@@ -159,4 +159,29 @@ static void Main(string[] args) {
 }
 ```
 
-* 
+* A (U+0041 or 41) < Z(U+005A or 90) (in order from A - Z)
+* Uppercase (A is U+0041 or 41) < lowercase (by 32 places) (a is 97 or U+0061)
+
+``` C#
+// C# syntax :-
+char singleQuote = '\''; // ‘ usually a single quote is used for characters 'a'
+char doubleQuote = '\"'; // " usually a double quote is used for strings "hi"
+char tab = '\t'; // a tab for formatting
+char newLine = '\n'; // new line for unix systems  
+char carriageReturn = '\r'; // used with new line for non-unix systems
+char backSlash = '\\'; // \ used because all the characters above start with a  \  
+
+```
+
+
+## String
+
+![](../../Pasted%20image%2020240722175613.png)
+
+A small code to find the length of the string name and then know which char is at first and which char is at the last.
+```c#
+static void Main(string[] args) {
+	string name = "Stan";
+	int nameLength = name.Length 
+}
+```
