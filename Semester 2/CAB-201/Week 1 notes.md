@@ -261,3 +261,11 @@ double DTS = 3.14; string strDTS = DTS.ToString();
 string litInt = 616.ToString();
 string litDbl= 0.123.ToString();
 ```
+
+## Composite Format Strings
+
+You can use string.format as well 
+
+```C#
+string compositeStr = string.Format("I want {0} strawberries", 6)
+```
