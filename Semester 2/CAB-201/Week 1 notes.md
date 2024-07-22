@@ -275,3 +275,33 @@ Console.WriteLine($"I want {number} strawberries");
 
 #### You can skip a line by either giving empty WriteLine or by adding '\\\n'.
 #### You can use \\\t for leaving space exactly of a tab.
+
+```C#
+double number = 12345.678901;
+Console.WriteLine(String.Format("{0:F0}", number));
+Console.WriteLine(String.Format("{0:F3}", number));
+Console.WriteLine(String.Format("{0:F10}", number));
+
+```
+
+**![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUfEZytAMPcr9vvLh2upsDNy5t0I794NNzQiy23HBwF6ODSBtcT9CAX7pf3q7UuSQ-vcHMvY3He9dm5mCVUH4bfTmPl3ZnyzQ30iK6VxpP_GpopqH3pAVN13Gl6nWB7H-tzf-7GYQTUksBLOsalJJwjY_JySxuQN5kcNqWOiOQ=s2048?key=kiXN7aLP6wH3pw0-kPqZWg)**
+
+```C#
+// for alignment 
+Console.WriteLine("{0, 20} right aligned", number);
+Console.WriteLine("{0, -20} left aligned", number);
+Console.WriteLine("{0, 20:F3} right aligned, 3 decimal places", number);
+Console.WriteLine("{0, -20:F3} left aligned, 3 decimal places", number);
+
+```
+**![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUd5CbPlmSNJYj2OQ-oLh9Cleg9U5mtvHh9HLMV8Qx51JVT_niYC4Sd8dWxQLjG0lZLRhxnjV1WfPnjnr39CGW3YMCGakNUPkB8XDAWXuGP5_33VqBy0siFG4nALjiGyrrYgdDMieGkJYzlgz0ScnZgBf3Ax52I4T-1yrUnx=s2048?key=kiXN7aLP6wH3pw0-kPqZWg)**
+
+```C#
+Console.WriteLine(number);
+Console.WriteLine($"{number, 20} right aligned");
+Console.WriteLine($"{number, -20} left aligned");
+Console.WriteLine($"{number, 20:F3} right aligned, 3 decimal places");
+Console.WriteLine($"{number,-20:F3)} left aligned, 3 decimal places");
+
+```
+**![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUec6dWcOaAI45nzWJtPTdPVPruvsFAvd-NBj00W_LpgOCi9qmdpjrCU1bvLQrmX8mXYVw3nq2Nym2JYMTytTNRa-_GuhO_H_drUlNYFPA2P8CMABmwjLGgX798fL7Jd_zfyTZsk2woeUhsUSVC2wNPivSfbsQACTfnaZvVbdA=s2048?key=kiXN7aLP6wH3pw0-kPqZWg)**
