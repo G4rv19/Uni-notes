@@ -95,10 +95,10 @@ CONST TYPE IDENTIFIER = VALUE;
 They can occur always and anytime with simple things or sometimes have bugs in code. U can debug and fix up the errors while compiling the code.
 
 ### Statically vs Dynamically Typed
-![](../../Pasted%20image%2020240722130208.png)
+![](Week%201/Pasted%20image%2020240722130208.png)
 
 # Floating Point Numbers
-![](../../Pasted%20image%2020240722130541.png)
+![](Week%201/Pasted%20image%2020240722130541.png)
 
 * The default Value for variables is 0.
 * Double is the default type of literal.
@@ -135,7 +135,7 @@ static void Main(string[] args){
 ```
 
 ## Characters
-![](../../Pasted%20image%2020240722174623.png)
+![](Week%201/Pasted%20image%2020240722174623.png)
 
 
 ```C#
@@ -176,7 +176,7 @@ char backSlash = '\\'; // \ used because all the characters above start with a  
 
 ## String
 
-![](../../Pasted%20image%2020240722175613.png)
+![](Week%201/Pasted%20image%2020240722175613.png)
 
 A small code to find the length of the string name and then know which char is at first and which char is at the last.
 ```c#
@@ -199,3 +199,20 @@ greetings += first_name;
 ```
 
 #### Equality 
+
+To test if two strings contain same characters in the same order u can use this:
+
+```C#
+bool b1 = mickey == mickey; // true
+bool b2 = mickey == mouse; // false
+```
+
+## Some Useful string methods
+
+![](../../Pasted%20image%2020240722180505.png)
+
+
+# Input & Output
+
+* Console.WriteLine - write the strings to the screen.
+* Console.Read
