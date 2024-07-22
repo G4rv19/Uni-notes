@@ -209,7 +209,7 @@ bool b2 = mickey == mouse; // false
 
 ## Some Useful string methods
 
-![](../../Pasted%20image%2020240722180505.png)
+![](Week%201/Pasted%20image%2020240722180505.png)
 
 
 # Input & Output
@@ -244,3 +244,20 @@ No float, double -> decimal
 None -> byte, sbyte;  double, decimal -> None
 
 
+![](Week%201/Pasted%20image%2020240722182331.png)
+
+
+## Explicit Converting Numerical Types
+
+![](../../Pasted%20image%2020240722182556.png)
+
+## To String
+to convert to string:
+
+```C#
+char CTS = 'a'; string strCTS = CTS.ToString();
+int ITS = 42; string strITS = ITS.ToString();
+double DTS = 3.14; string strDTS = DTS.ToString();
+string litInt = 616.ToString();
+string litDbl= 0.123.ToString();
+```
