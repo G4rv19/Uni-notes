@@ -63,4 +63,24 @@ What is a Statically typed language? How does it differ from a dynamic language?
 \
 ### Variable Identifiers
 1. C# identifiers following the following rules:
- 
+	1. They must begin with letter and an underscore character or an at character.
+	2. Cannot contain use of whitespaces.
+	3. They are case sensitive.
+	4. They cannot be reserved words such as C# keywords without a @ prefix.
+
+![](Week%201/Pasted%20image%2020240722125902.png)
+
+## Constants 
+
+* Similar to variables but can only be initialised and used.
+	* Not declaration or reassignment.
+* Initialisation
+		CONST TYPE IDENTIFIER = VALUE;
+
+![](Week%201/Pasted%20image%2020240722130048.png)
+
+
+# ERRORS
+
+### Statically vs Dynamically Typed
+![](../../Pasted%20image%2020240722130208.png)
