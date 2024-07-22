@@ -268,4 +268,10 @@ You can use string.format as well
 
 ```C#
 string compositeStr = string.Format("I want {0} strawberries", 6)
+// or u can write like this
+double number = 6;
+Console.WriteLine($"I want {number} strawberries");
 ```
+
+#### You can skip a line by either giving empty WriteLine or by adding '\\\n'.
+#### You can use \\\t for leaving space exactly of a tab.
