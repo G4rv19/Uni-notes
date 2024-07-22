@@ -51,13 +51,19 @@ What is a Statically typed language? How does it differ from a dynamic language?
 
 ## Variables 
 * Declaration
-	   TYPE IDENTIFIER;
+``` C#
+TYPE IDENTIFIER;
 	   ...
 	   IDENTIFIER = VALUE;
+```
 * Initialisation
-		TYPE IDENTIFIER = VALUE;
+``` C#
+TYPE IDENTIFIER = VALUE;
+```
 * Assigning 
-		IDENTIFIER = VALUE;
+```C#
+IDENTIFIER = VALUE;
+```
 
 ![](Week%201/Pasted%20image%2020240722125607.png)
 \
@@ -75,7 +81,11 @@ What is a Statically typed language? How does it differ from a dynamic language?
 * Similar to variables but can only be initialised and used.
 	* Not declaration or reassignment.
 * Initialisation
-		CONST TYPE IDENTIFIER = VALUE;
+		```
+``` C#
+CONST TYPE IDENTIFIER = VALUE;
+
+```
 
 ![](Week%201/Pasted%20image%2020240722130048.png)
 
@@ -94,3 +104,16 @@ They can occur always and anytime with simple things or sometimes have bugs in c
 * Double is the default type of literal.
 * Use a x.0 when using an integral number to explicitly define it as a floating point.
 * Can also specify not a number (NAN) via their system type e.g. System.Double.NAN
+
+### Floating Point Operators
+
+* Same as integral types but division more accurate.
+```C#
+static void Main(string[] args){
+	doube d;
+	d = 25.0 + 25.0; // 50
+	d = 100.0 - 10.0 // 90
+	d = 10.0 * 10.0 // 100
+	d = %%  %%
+}
+```
