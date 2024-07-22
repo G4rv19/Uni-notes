@@ -249,7 +249,7 @@ None -> byte, sbyte;  double, decimal -> None
 
 ## Explicit Converting Numerical Types
 
-![](../../Pasted%20image%2020240722182556.png)
+![](Week%201/Pasted%20image%2020240722182556.png)
 
 ## To String
 to convert to string:
