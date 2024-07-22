@@ -114,6 +114,33 @@ static void Main(string[] args){
 	d = 25.0 + 25.0; // 50
 	d = 100.0 - 10.0 // 90
 	d = 10.0 * 10.0 // 100
-	d = %%  %%
 }
+```
+
+
+``` C#
+static void Main(string[] args){
+	int x1 = 10; int x2 = 10; int x3 = 10; int x4 = 10; int x5 = 10;
+	int x6 = 10; int x7 = 10; 
+	int y = 10;
+	x1 += y; // x1 = x1 + (y); x1 = 20
+	x2 += y / 2; // x2 = x2 + (y / 2); x2 = 15 
+	x3 -= y; // x3 = x3 – (y); x3 = 0
+	x4 *= y; // x4 = x4 * (y); x4 = 100 
+	x5 /= y; // x5 = x5 / (y); x5 = 1
+	x6++; // x6 = x6 + 1 (increment) x6 = 11.2 
+	x7--; // x7 = x7 - 1 (decremente) x7 = 9.2
+}
+
+```
+
+## Characters
+![](../../Pasted%20image%2020240722174623.png)
+
+
+```C#
+char A_Literal = 'A';
+char A_Unicode = '\u0041'; // 65 in decimal 
+char copywrite = '\u00A9'; // 169 in decimal 
+char registered = '\u00AE'; 
 ```
