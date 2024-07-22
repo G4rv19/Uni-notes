@@ -215,4 +215,17 @@ bool b2 = mickey == mouse; // false
 # Input & Output
 
 * Console.WriteLine - write the strings to the screen.
-* Console.Read
+* Console.ReadLine - Read strings written by the user.
+
+``` C#
+static void Main(string[] args) {
+	Console.WriteLine();	
+	Console.WriteLine("Enter a sentence.");
+	string echo = Console.ReadLine();
+	Console.WriteLine(echo);
+}
+```
+
+* Console.WriteLine - while string followed by a newline/ newline carriage return. it makes the cursor start at the beginning of the next sentence. it is good for output
+* Console.Write - just writes the string. the Cursor starts at the end of the current sentence good for output before input.
+
