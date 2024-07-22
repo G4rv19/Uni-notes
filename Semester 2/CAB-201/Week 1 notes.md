@@ -229,3 +229,18 @@ static void Main(string[] args) {
 * Console.WriteLine - while string followed by a newline/ newline carriage return. it makes the cursor start at the beginning of the next sentence. it is good for output
 * Console.Write - just writes the string. the Cursor starts at the end of the current sentence good for output before input.
 
+## Implicit Converting Numerical Types
+
+**![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUeMWSAO0EKQeXHLmjjWyNQ29cpkBPhRtIZ8HueWs2PDAXOWLKgBcDfzI26q7YKQOZFb9kLS1Whumik08MF4j3TQiIEJrPW3H85vERlvxuXTnvCmtl_BcW13EriEwZcFbJY4gLg0frFXAaBZZlJujwIHkO8Uga3dnKpqL9dUAg=s2048?key=kiXN7aLP6wH3pw0-kPqZWg)**
+
+
+Rules (for variables)
+Goes one way – Lower amount of  memory -> Higher amount of memory 
+Signed integrals -> Higher signed integrals
+Unsigned integrals -> Higher unsigned or signed integrals   
+Cannot convert between signed and unsigned within the type pair
+All Integrals -> Floating point; No floating point -> Integrals  
+No float, double -> decimal
+None -> byte, sbyte;  double, decimal -> None
+
+
