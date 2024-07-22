@@ -182,6 +182,20 @@ A small code to find the length of the string name and then know which char is a
 ```c#
 static void Main(string[] args) {
 	string name = "Stan";
-	int nameLength = name.Length 
+	int nameLength = name.Length;
+	char first = name[0];
+	char last = name[nameLength - 1]
 }
 ```
+
+Some Userful tips you can use to improve the code quality with use of less efforts too.
+
+``` C#
+string first_name = "John";
+string greetings = "hey" + first_name;
+//or u can use this
+string greetings = "hey"l
+greetings += first_name;
+```
+
+#### Equality 
