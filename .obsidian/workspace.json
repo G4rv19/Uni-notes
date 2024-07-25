@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2936e55c7964a22f",
@@ -179,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8aa1b6b21ffe5012",
+  "active": "879acf9a4fc7e954",
   "lastOpenFiles": [
     "Semester 2/CAB-222/Introduction to CAB-222.md",
     "Semester 2/CAB-222/Week 1 notes.md",
