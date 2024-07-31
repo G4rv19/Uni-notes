@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ffdc0dda53f63fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/CAB-222/Introduction to CAB-222.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "879acf9a4fc7e954",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "adb088fabe9f1a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/CAB-201/Week 1 notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,21 +157,22 @@
   },
   "active": "879acf9a4fc7e954",
   "lastOpenFiles": [
-    "Semester 2/CAB-222/Introduction to CAB-222.md",
-    "Semester 2/CAB-222/Week 1 notes.md",
-    "Semester 2/IFB-240/Introduction to IFB-240.md",
+    "Pasted image 20240731183010.png",
+    "Pasted image 20240731182704.png",
+    "Pasted image 20240731182650.png",
+    "Pasted image 20240731181052.png",
+    "Pasted image 20240731175823.png",
+    "Pasted image 20240731175336.png",
+    "Pasted image 20240731174641.png",
+    "Pasted image 20240731174624.png",
+    "Pasted image 20240731172856.png",
     "Semester 2/CAB-201/Week 1 notes.md",
+    "Semester 2/CAB-222/Week 1 notes.md",
+    "Semester 2/CAB-222/Introduction to CAB-222.md",
+    "Semester 2/IFB-240/Introduction to IFB-240.md",
     "Semester 2/CAB-201/Week 1/Pasted image 20240722182556.png",
     "Semester 2/CAB-201/Week 1/Pasted image 20240722180505.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722182331.png",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722130208.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722175613.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722174623.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722130541.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722125902.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722130048.png",
-    "Semester 2/CAB-201/Week 1/Pasted image 20240722125607.png",
     "Semester 2/MXB-100/Week 1 Notes.md",
     "README.md",
     "Semester 2/CAB-201/Week 1",
