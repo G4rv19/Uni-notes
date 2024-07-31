@@ -54,7 +54,7 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 ### Extranet 
 1. An enterprise network that extends to external users to access internal resources.
 
-![](../../Pasted%20image%2020240731172856.png)
+![](week%201%20notes/Pasted%20image%2020240731172856.png)
 
 ## Packets
 1. **Chunks of data sent across the network** are usually called packets or frames, with packets being the more well known term.
@@ -108,10 +108,10 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 * A switch is used for connecting multiple computers within a network
 * An access point (AP) allows wireless devices to connect to a wireless network.
 
-![](../../Pasted%20image%2020240731174624.png)
+![](week%201%20notes/Pasted%20image%2020240731174624.png)
 
 
-![](../../Pasted%20image%2020240731174641.png)
+![](week%201%20notes/Pasted%20image%2020240731174641.png)
 
 
 ## Software Components 
@@ -134,7 +134,7 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 * Each step required for a client to access network resources is referred to as **layer**
 * Each layer has a task and all layers work together.
 
-![](../../Pasted%20image%2020240731175336.png)
+![](week%201%20notes/Pasted%20image%2020240731175336.png)
 
 ## Network Architecture
 
@@ -152,7 +152,7 @@ It is a framework for the specification of :
 	* Each layer/module is easier to manage and maintain.
 
 
-![](../../Pasted%20image%2020240731175823.png)
+![](week%201%20notes/Pasted%20image%2020240731175823.png)
 
 ## The open systems Interconnection (OSI) reference model
 
@@ -162,13 +162,13 @@ It is a framework for the specification of :
 	2. It is well known and acknowledged as a baseline for categorisation of network communication functions and assessment.
 
 
-### Structure of the OSI model
+# Structure of the OSI model
 1. It is seven layer organisation of how data travels from place to place on any given network.
 2. Each layer provides services to the next higher layer until data reaches the application layer.
 3. Each layer on one computer behaves as though it were communicating with the same layer on the other computer.
 4. This is known as peer communication between layers.
 
-![](../../Pasted%20image%2020240731181052.png)
+![](week%201%20notes/Pasted%20image%2020240731181052.png)
 
 ## Encapsulation in Networking
 
@@ -203,9 +203,9 @@ It is a framework for the specification of :
 3. Includes flow control and acknowledgements to ensure reliability
 4. Handles re-sequencing segments into original data on receipt.
 
-![](../../Pasted%20image%2020240731182650.png)
+![](week%201%20notes/Pasted%20image%2020240731182650.png)
 
-![](../../Pasted%20image%2020240731182704.png)
+![](week%201%20notes/Pasted%20image%2020240731182704.png)
 
 ## Network layer
 1. The Network Layer (Layer 3) : 
@@ -217,10 +217,61 @@ It is a framework for the specification of :
 	2. address resolution Protocol (ARP)
 	3. Internet Control message Protocol (ICMP                                                                                
 
-![](../../Pasted%20image%2020240731183010.png)
+![](week%201%20notes/Pasted%20image%2020240731183010.png)
 
 Problems that can occur at the Network layer often include the following :
 * Incorrect IP addresses or subnet masks
 * Incorrect router configuration
 * Router operation errors.
-* 
+
+## Data Link Layer
+
+* The Data Link Layer (Layer 2) works with frames and is the intermediary between the Network layer and Physical layer.
+* Defines how computer access the network medium. 
+	*  **Media Access Control (MAC) address** is defined in this layer.
+* A layer 2 frame consists of both a header and a trailer
+	* Trailer component is labeled "FCS" (Frame Check Sequence) and contains a Cyclic Redundancy Check (CRC) code.
+	* A CRC is an error-detecting code commonly used in network communications.
+![](week%201%20notes/Pasted%20image%2020240801000323.png)
+
+* The software component operating at this layer is in the network interface card (NIC) driver.
+* Hardware components that operate at this layer include NICs and switches
+* Problems at this layer include collisions and invalid frames.
+	* Can be caused by collisions, poor network design, environmental interference, line noise or NIC driver problems.
+
+## Physical layer
+* The Physical Layer (Layer 1) converts bits into signals for outgoing messages and signals into bits for incoming messages.
+	* Wire media uses electrical pulses, fiber-optic uses light pulses and wireless media user radio waves.
+* Details for **creating a physical network connection** are specified at this layer.
+	* e.g. type of connector used to attach the medium to NIC.
+* **Encoding** (representing 0s and 1s by a physical signal) happens at this layer.
+	* such as electrical voltage or light pulse.
+* Components at this layer include all the cables and connectors on the medium, repeaters and hubs
+* Problems occurs here are often related to:
+	* Incorrect media termination
+	* Electromagnetic interference or noise that scrambles the signals 
+	* NICs and hubs are misconfigured or malfunctioning.
+![](week%201%20notes/Pasted%20image%2020240801001444.png)
+
+
+# Purposes of network layering  
+• It can be clearly divided into separate and achievable function-based modules/layers  
+• Each module/layer is easier to manage and control, i.e., one module/layer can be changed without affecting other module/layers  
+• It facilitates in protocol implementation and troubleshooting.
+
+# Summary
+* The layers of the network communications process can be summarised as user application , network software, network protocol and network interface.
+* The four terms used to describe networks of different scope are LAN, Internetwork, WAN and MAN
+* Packets and frames are the units of the data handled by the different network components.
+	* Packets have the source and destination IP address added and are processed by the network protocol.
+
+
+# Summary of the OSI model layer function
+
+* Application - provides access to the network resources
+* Presentation - handles the data formatting and translation
+* Session - manages ongoing conversations between two computers.
+* Transport - breaks long data streams into smaller chunks (Segments)
+* Network - Provides best path selection and IP Addressing.
+* Data Link - Defines how computers access the media.
+* Physical - converts bits into signals and defines media and connectors.
