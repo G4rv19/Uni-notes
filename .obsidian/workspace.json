@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b08e1edcf8722951",
+        "id": "f82b1e17f0923fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "879acf9a4fc7e954",
+            "id": "2d9ef21668895add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/CAB-222/Week 1 notes.md",
+                "file": "Semester 2/CAB-222/Week 2 notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/CAB-222/Week 1 notes.md",
+                "file": "Semester 2/CAB-222/Week 2 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/CAB-222/Week 1 notes.md",
+                "file": "Semester 2/CAB-222/Week 2 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/CAB-222/Week 1 notes.md"
+                "file": "Semester 2/CAB-222/Week 2 notes.md"
               }
             }
           },
@@ -155,23 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "879acf9a4fc7e954",
+  "active": "2d9ef21668895add",
   "lastOpenFiles": [
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731172856.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731174624.png",
-    "Semester 2/CAB-222/Week 1 notes.md",
-    "Semester 2/CAB-222/week 1 notes",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240801001444.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240801000323.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731183010.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731182704.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731182650.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731181052.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731175823.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731175336.png",
-    "Semester 2/CAB-222/week 1 notes/Pasted image 20240731174641.png",
-    "Semester 2/CAB-201/Week 1 notes.md",
+    "Pasted image 20240801130549.png",
     "Semester 2/CAB-222/Introduction to CAB-222.md",
+    "Semester 2/CAB-222/Week 1 notes.md",
+    "Semester 2/CAB-222/Week 2 notes.md",
+    "Untitled",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731172856.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731174624.png",
+    "Semester 2/CAB-222/screenshots",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240801001444.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240801000323.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731183010.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731182704.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731182650.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731181052.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731175823.png",
+    "Semester 2/CAB-222/screenshots/Pasted image 20240731175336.png",
+    "Semester 2/CAB-201/Week 1 notes.md",
     "Semester 2/IFB-240/Introduction to IFB-240.md",
     "Semester 2/CAB-201/Introduction to CAB-201.md",
     "Semester 2/MXB-100/Week 1 Notes.md",

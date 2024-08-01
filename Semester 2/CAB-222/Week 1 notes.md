@@ -54,7 +54,7 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 ### Extranet 
 1. An enterprise network that extends to external users to access internal resources.
 
-![](week%201%20notes/Pasted%20image%2020240731172856.png)
+![](screenshots/Pasted%20image%2020240731172856.png)
 
 ## Packets
 1. **Chunks of data sent across the network** are usually called packets or frames, with packets being the more well known term.
@@ -108,10 +108,10 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 * A switch is used for connecting multiple computers within a network
 * An access point (AP) allows wireless devices to connect to a wireless network.
 
-![](week%201%20notes/Pasted%20image%2020240731174624.png)
+![](screenshots/Pasted%20image%2020240731174624.png)
 
 
-![](week%201%20notes/Pasted%20image%2020240731174641.png)
+![](screenshots/Pasted%20image%2020240731174641.png)
 
 
 ## Software Components 
@@ -134,7 +134,7 @@ Robert Kahn and Vinton Cert built on NCP to develop standard TCP/IP
 * Each step required for a client to access network resources is referred to as **layer**
 * Each layer has a task and all layers work together.
 
-![](week%201%20notes/Pasted%20image%2020240731175336.png)
+![](screenshots/Pasted%20image%2020240731175336.png)
 
 ## Network Architecture
 
@@ -152,7 +152,7 @@ It is a framework for the specification of :
 	* Each layer/module is easier to manage and maintain.
 
 
-![](week%201%20notes/Pasted%20image%2020240731175823.png)
+![](screenshots/Pasted%20image%2020240731175823.png)
 
 ## The open systems Interconnection (OSI) reference model
 
@@ -168,7 +168,7 @@ It is a framework for the specification of :
 3. Each layer on one computer behaves as though it were communicating with the same layer on the other computer.
 4. This is known as peer communication between layers.
 
-![](week%201%20notes/Pasted%20image%2020240731181052.png)
+![](screenshots/Pasted%20image%2020240731181052.png)
 
 ## Encapsulation in Networking
 
@@ -203,9 +203,9 @@ It is a framework for the specification of :
 3. Includes flow control and acknowledgements to ensure reliability
 4. Handles re-sequencing segments into original data on receipt.
 
-![](week%201%20notes/Pasted%20image%2020240731182650.png)
+![](screenshots/Pasted%20image%2020240731182650.png)
 
-![](week%201%20notes/Pasted%20image%2020240731182704.png)
+![](screenshots/Pasted%20image%2020240731182704.png)
 
 ## Network layer
 1. The Network Layer (Layer 3) : 
@@ -217,7 +217,7 @@ It is a framework for the specification of :
 	2. address resolution Protocol (ARP)
 	3. Internet Control message Protocol (ICMP                                                                                
 
-![](week%201%20notes/Pasted%20image%2020240731183010.png)
+![](screenshots/Pasted%20image%2020240731183010.png)
 
 Problems that can occur at the Network layer often include the following :
 * Incorrect IP addresses or subnet masks
@@ -232,7 +232,7 @@ Problems that can occur at the Network layer often include the following :
 * A layer 2 frame consists of both a header and a trailer
 	* Trailer component is labeled "FCS" (Frame Check Sequence) and contains a Cyclic Redundancy Check (CRC) code.
 	* A CRC is an error-detecting code commonly used in network communications.
-![](week%201%20notes/Pasted%20image%2020240801000323.png)
+![](screenshots/Pasted%20image%2020240801000323.png)
 
 * The software component operating at this layer is in the network interface card (NIC) driver.
 * Hardware components that operate at this layer include NICs and switches
@@ -251,7 +251,7 @@ Problems that can occur at the Network layer often include the following :
 	* Incorrect media termination
 	* Electromagnetic interference or noise that scrambles the signals 
 	* NICs and hubs are misconfigured or malfunctioning.
-![](week%201%20notes/Pasted%20image%2020240801001444.png)
+![](screenshots/Pasted%20image%2020240801001444.png)
 
 
 # Purposes of network layering  
