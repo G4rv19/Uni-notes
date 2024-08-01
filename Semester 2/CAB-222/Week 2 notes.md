@@ -6,7 +6,7 @@
 * Wired Network Technology - Ethernet 
 * Wireless Network Technology - Wi-Fi
 
-![](../../Pasted%20image%2020240801130549.png)
+![](screenshots/Pasted%20image%2020240801130549.png)
 
 
 # <font color="Yellow">Network Media </font>
