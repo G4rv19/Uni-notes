@@ -97,3 +97,26 @@
 ### Twisted pair cable Plant components
 * RJ-45 Connectors - STP and UTP uses registered Jack 45 
 	* most used in patch cables, which are used to connect to hubs , switches and RJ-45 wall jack.
+
+
+## Straight Through vs Crossover Cables
+* Standard patch cables are called Straight Through cables 
+* Crossover cables -
+	* Use 568A standard on one side of the cable and 568B standard on the other side.
+	* Crosses the transmit and receive wires so that transmit on one end connects to receive on the other.
+	* This type of cable is often needed when u connect two devices of the same type to one another.
+
+## DO we still need a crossover cable?
+* Nowadays the need for crossover cables has been eliminated with the latest technology,.
+* G/Ethernet comes with automatic medium dependent interface crossover (Auto-MDIX)
+* this technology detects whether u need a crossover cabe or a straight through cable and it automatically configures the network interface card acc.
+* yet, we still need to use crossover cables to connect two devices of the same type.
+
+## Summary of Twisted pair
+* Most common form of wire
+* comes in shielded and unshielded forms
+* Relatively inexpensive
+* easy to install
+* carries high data rates but not the highest
+* can suffer from electromagnetic noise
+* Can be easily wire tapped.
